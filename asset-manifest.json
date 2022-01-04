@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KacyLukerWebpage/static/css/main.073c9b0a.css",
+    "main.js": "/KacyLukerWebpage/static/js/main.6365bf45.js",
+    "static/js/787.11e9b87a.chunk.js": "/KacyLukerWebpage/static/js/787.11e9b87a.chunk.js",
+    "static/media/logo.svg": "/KacyLukerWebpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/KacyLukerWebpage/index.html",
+    "main.073c9b0a.css.map": "/KacyLukerWebpage/static/css/main.073c9b0a.css.map",
+    "main.6365bf45.js.map": "/KacyLukerWebpage/static/js/main.6365bf45.js.map",
+    "787.11e9b87a.chunk.js.map": "/KacyLukerWebpage/static/js/787.11e9b87a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6365bf45.js"
+  ]
+}

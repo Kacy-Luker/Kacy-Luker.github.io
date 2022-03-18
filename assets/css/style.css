@@ -29,7 +29,7 @@
 
 body {
   font-family: 'Open Sans', sans-serif !important;
-  background-color: #2e2e35 !important;
+  background-color: #131f3d !important;
   color: #dadada !important;
 }
 
@@ -152,11 +152,11 @@ p {
 }
 
 .bgp {
-  background: #2e2e35;
+  background: #131f3d;
 }
 
 .bgs {
-  background: #34343b;
+  background: #2c3857;
 }
 
 .vc {
@@ -603,7 +603,7 @@ p {
   bottom: 0;
   left: 50%;
   position: absolute;
-  background: #2e2e35;
+  background: #131f3d;
   transform: translate(-50%, -50%);
   opacity: 0;
   transition: 0.5s ease;
@@ -632,7 +632,7 @@ p {
 
 .single-blog {
   position: relative;
-  background: #2e2e34;
+  background: #121b38;
 }
 
 .blog-img,
@@ -715,7 +715,7 @@ p {
   top: 21%;
   left: 50%;
   border: 2px solid #e4aa48;
-  background: #2e2e34;
+  background: #121b38;
   width: 80px;
   height: 80px;
   line-height: 70px;
@@ -726,7 +726,7 @@ p {
 }
 
 .blog-item-small {
-  background: #2e2e34;
+  background: #121b38;
   overflow: hidden;
   position: relative;
 }
@@ -802,8 +802,9 @@ p {
 
 .back-to-top {
   position: absolute;
-  bottom: 100px;
-  right: 100px;
+  bottom: -24px;
+  right: 8px;
+  padding-bottom: 8px;
 }
 
 .back-to-top a {
@@ -900,7 +901,7 @@ p {
   top: 50%;
   left: 50%;
   border: 2px solid #e4aa48;
-  background: #2e2e34;
+  background: #121b38;
   width: 80px;
   height: 80px;
   line-height: 78px;
@@ -978,7 +979,7 @@ p {
 }
 
 .blockquote {
-  background: #2e2e34;
+  background: #121b38;
   padding: 50px 60px;
   font-size: 60px;
   line-height: 40px;
@@ -1022,7 +1023,7 @@ p {
   font-size: 12px;
   font-family: 'Nunito', sans-serif;
   text-align: center;
-  background: #2e2e34;
+  background: #121b38;
   padding: 10px 20px;
 }
 
@@ -1443,7 +1444,7 @@ p {
     font-size: 12px;
     font-family: 'Nunito', sans-serif;
     text-align: center;
-    background: #2e2e34;
+    background: #121b38;
     padding: 10px 10px;
   }
 

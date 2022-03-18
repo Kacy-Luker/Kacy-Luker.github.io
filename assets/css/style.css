@@ -29,7 +29,7 @@
 
 body {
   font-family: 'Open Sans', sans-serif !important;
-  background-color: #131f3d !important;
+  background-color: #2e2e35 !important;
   color: #dadada !important;
 }
 
@@ -152,11 +152,11 @@ p {
 }
 
 .bgp {
-  background: #131f3d;
+  background: #2e2e35;
 }
 
 .bgs {
-  background: #2c3857;
+  background: #34343b;
 }
 
 .vc {
@@ -603,7 +603,7 @@ p {
   bottom: 0;
   left: 50%;
   position: absolute;
-  background: #131f3d;
+  background: #2e2e35;
   transform: translate(-50%, -50%);
   opacity: 0;
   transition: 0.5s ease;
@@ -632,7 +632,7 @@ p {
 
 .single-blog {
   position: relative;
-  background: #121b38;
+  background: #2e2e34;
 }
 
 .blog-img,
@@ -715,7 +715,7 @@ p {
   top: 21%;
   left: 50%;
   border: 2px solid #e4aa48;
-  background: #121b38;
+  background: #2e2e34;
   width: 80px;
   height: 80px;
   line-height: 70px;
@@ -726,7 +726,7 @@ p {
 }
 
 .blog-item-small {
-  background: #121b38;
+  background: #2e2e34;
   overflow: hidden;
   position: relative;
 }
@@ -901,7 +901,7 @@ p {
   top: 50%;
   left: 50%;
   border: 2px solid #e4aa48;
-  background: #121b38;
+  background: #2e2e34;
   width: 80px;
   height: 80px;
   line-height: 78px;
@@ -979,7 +979,7 @@ p {
 }
 
 .blockquote {
-  background: #121b38;
+  background: #2e2e34;
   padding: 50px 60px;
   font-size: 60px;
   line-height: 40px;
@@ -1023,7 +1023,7 @@ p {
   font-size: 12px;
   font-family: 'Nunito', sans-serif;
   text-align: center;
-  background: #121b38;
+  background: #2e2e34;
   padding: 10px 20px;
 }
 
@@ -1444,7 +1444,7 @@ p {
     font-size: 12px;
     font-family: 'Nunito', sans-serif;
     text-align: center;
-    background: #121b38;
+    background: #2e2e34;
     padding: 10px 10px;
   }
 
